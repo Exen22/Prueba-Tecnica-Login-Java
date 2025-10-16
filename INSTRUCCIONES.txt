@@ -1,0 +1,14 @@
+Abrir proyecto en netbeans y Ejecutar Main.Java 
+(o ejecutar JavaLogin.jar en la carpeta dist)
+
+
+Iniciar sesión con los datos Default:
+
+usuario: Admin123
+contraseña: Admin123.
+
+Para recuperación de contraseña los datos default son:
+email: admin@gmail.com
+Codigo de recuperacion: REC123456
+
+Si desea crear más usuarios o modificar el default, modifique el archivo users.json en la carpeta principal del proyecto (o si está ejecutando el jar, modifique el users.json de la carpeta dist) 
