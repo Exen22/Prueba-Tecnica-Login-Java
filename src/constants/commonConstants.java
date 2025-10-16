@@ -8,8 +8,8 @@ import java.awt.Color;
  */
 public class commonConstants {
     //COLORES GLOBALES DE LA GUI EN HEXADECIMAL
-    public static final Color PRIMARY_COLOR = Color.decode("#191E29");
-    public static final Color SECONDARY_COLOR = Color.decode("#132D46");
+    public static final Color PRIMARY_COLOR = Color.decode("#273B7A");
+    public static final Color SECONDARY_COLOR = Color.decode("#121149");
     public static final Color TEXT_COLOR = Color.decode("#FFFFFF");
-    public static final Color LINK_COLOR = Color.decode("#00dcf5");
+    public static final Color LINK_COLOR = Color.decode("#FFC61B");
 }
