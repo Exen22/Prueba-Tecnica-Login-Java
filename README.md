@@ -11,7 +11,7 @@
 
 ### Para Inicio de Sesión
 - **Usuario:** `Admin123`
-- **Contraseña:** `Admin123!`
+- **Contraseña:** `Admin123.`
 
 ### Para Recuperación de Contraseña
 - **Usuario:** `Admin123`
